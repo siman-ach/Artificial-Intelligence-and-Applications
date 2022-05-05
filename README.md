@@ -20,8 +20,7 @@ These parameters are descibed below.
 - SUPER_MUTATE : Refers to the number of generations to be untouched before performing a super mutation. Use 0 to disable super mutations.
 - TOLERANCE : Specify the tolerance leiency either side of the past generation to count as an untouched generations. E.g. SM Tolenerance = 1 would indicate gen1 = 3 then gen2 = 2, 3 or 4 would be untouched.
 - TIME_MAX : Refers to the maximum time limit. Use 0 to disable time limit.
-- VERBOSE : User can use VERBOSE to print details to scre
-- 
+- VERBOSE : User can use VERBOSE to print details to the screen
 
 Once the desired paramaters have been defined, run the program from the command line by typing 'GA_Sudoku.py'
 ## License
