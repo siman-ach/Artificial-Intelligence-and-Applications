@@ -8,7 +8,7 @@ Within this project, I focused on solving the 8-puzzle problem using the A* algo
 Instructions for running the file GA_Sudoku.py program.
 
 This program makes use of (EA) Genetic Algorithm to solve the Sudoku problem.
-It contains multiple parameters which make be edited to suit different experiments.
+It contains multiple parameters which may be edited to suit different experiments.
 These parameters are descibed below.
 
 ## Parameters
